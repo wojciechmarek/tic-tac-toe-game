@@ -8,7 +8,7 @@ This project was created to refresh an Angular knowledge. Based on the [Angular 
 
 ## Demo
 
-A live demo is available at [https://awesome-react-navbar.web.app/](https://awesome-react-navbar.web.app/)
+A live demo is available at [https://tic-tac-toe-game-e5928.web.app](https://tic-tac-toe-game-e5928.web.app)
 
 ## Used technologies
 
