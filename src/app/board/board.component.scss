@@ -1,0 +1,10 @@
+.board__main-container {
+  display: grid;
+  grid-template-columns: 10em 10em 10em;
+  grid-gap: 0;
+}
+
+.board__square {
+  border: 1px solid black;
+  height: 10em;
+}
