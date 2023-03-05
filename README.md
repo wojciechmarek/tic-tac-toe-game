@@ -1,27 +1,26 @@
-# AngularTicTacToe
+# Tic Tac Toe Game
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
+A simple Angular application that allows you to play Tic Tac Toe.
 
-## Development server
+## Purpose
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This project was created to refresh an Angular knowledge. Based on the [Angular for Beginners - Let's build a Tic-Tac-Toe PWA](https://www.youtube.com/watch?v=G0bBLvWXBvc).
 
-## Code scaffolding
+## Demo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+A live demo is available at [https://awesome-react-navbar.web.app/](https://awesome-react-navbar.web.app/)
 
-## Build
+## Used technologies
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- 🎁 **Repository:** regular Git repository
+- 🧰 **Frameworks:** Angular 15, Typescript
+- 🎨 **Styling:** Nebular, some plan CSS
+- 📦 **Other features:** PWA
 
-## Running unit tests
+## How to run
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Install [Node.js](https://nodejs.org/en/download/).
+2. Clone the repository.
+3. Type and run: `npm i` in the root directory.
+4. Type and run: `npm run start` in the root directory.
+5. Open `http://localhost:4200` in your browser to see the app.
