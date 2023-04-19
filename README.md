@@ -10,6 +10,10 @@ This project was created to refresh an Angular knowledge. Based on the [Angular 
 
 A live demo is available at [https://tic-tac-toe-game-e5928.web.app](https://tic-tac-toe-game-e5928.web.app)
 
+Screenshot:
+<img width="964" alt="Screenshot 2023-04-19 at 22 18 21" src="https://user-images.githubusercontent.com/27026036/233190737-e69ecb88-acb2-4ce1-8542-83bc80a4c150.png">
+
+
 ## Used technologies
 
 - 🎁 **Repository:** regular Git repository
